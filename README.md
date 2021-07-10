@@ -1,3 +1,5 @@
+The updated problem statement for this assignment can be found at https://github.com/LS-Computer-Vision/Python-Basics
+
 # Python-Basics
 
 This assignment is to test the basics of Python and Numpy.
